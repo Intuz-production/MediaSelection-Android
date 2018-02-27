@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media Selection</string>
+    <string name="app_provider">com.demo.mediaselection.provider</string>
+
+</resources>

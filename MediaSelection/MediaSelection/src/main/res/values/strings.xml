@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaSelectionLib</string>
+    <string name="app_provider">com.demo.mediaselection.provider</string>
+</resources>
