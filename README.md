@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [Android app development](https://www.intuz.com/android-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 
 INTUZ is presenting a Media Selection component, which allows you to capture or select image or video from the gallery and gives you a path when it is ready to use.
 Please follow below steps to integrate this control in your next project.
